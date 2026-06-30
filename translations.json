@@ -1,0 +1,136 @@
+{
+  "en": {
+    "tagline": "Frontend Developer",
+    "city": "Leipzig, Germany",
+
+    "exp.title": "Experience",
+    "job1.start": "July 2023",
+    "job1.end": "Now",
+    "job1.role": "Frontend Developer",
+    "job1.org": "Safety io (MSA) · Berlin – Germany",
+    "job1.li1": "Build and maintain an Angular SPA for real-time tracking and control of connected IoT safety devices",
+    "job1.li2": "Lead the web platform's contribution to a cross-team design system, partnering with designers and developers to standardize shared components across multiple products",
+    "job1.li3": "Own features end to end — from defining OKRs and refining epics to shipping to production",
+    "job1.li4": "Safeguard releases by writing unit and e2e tests (Jest, Cypress)",
+
+    "job2.start": "Sept. 2021",
+    "job2.end": "Feb. 2022",
+    "job2.role": "Teaching Assistant – Embedded Systems Lab",
+    "job2.org": "Fachhochschule · Dortmund – Germany",
+    "job2.li1": "Designed and ran a hands-on course on programming an embedded-systems robot for 30+ students",
+    "job2.li2": "Introduced students to AWS Greengrass, IoT concepts, and Python and C++ programming",
+    "job2.li3": "Assessed student progress through structured evaluation sessions",
+
+    "job3.start": "Feb. 2019",
+    "job3.end": "Dec. 2019",
+    "job3.role": "Intern software developer",
+    "job3.org": "Siemens Gamesa · Benisanó – Spain",
+    "job3.li1": "Built a SPA to automate testing of electrical wind-turbine control cabinets, replacing a manual, error-prone process",
+    "job3.li2": "Deployed the application to production in a live factory environment",
+    "job3.li3": "Provided day-to-day support on the testing line to keep the process running smoothly",
+
+    "edu.title": "Education",
+    "edu1.start": "Oct. 2020",
+    "edu1.end": "Jan. 2024",
+    "edu1.role": "Master's in Embedded Systems",
+    "edu2.start": "Sept. 2015",
+    "edu2.end": "Jun. 2020",
+    "edu2.role": "Degree in Electronics and Automation Engineering",
+
+    "lang.title": "Languages",
+    "lang.spanish": "Spanish",
+    "lang.spanish.level": "Native",
+    "lang.english": "English",
+    "lang.german": "German"
+  },
+
+  "de": {
+    "tagline": "Frontend-Entwickler",
+    "city": "Leipzig, Deutschland",
+
+    "exp.title": "Berufserfahrung",
+    "job1.start": "Juli 2023",
+    "job1.end": "Heute",
+    "job1.role": "Frontend-Entwickler",
+    "job1.org": "Safety io (MSA) · Berlin – Deutschland",
+    "job1.li1": "Entwicklung und Wartung einer Angular-SPA zur Echtzeit-Überwachung und -Steuerung vernetzter IoT-Sicherheitsgeräte",
+    "job1.li2": "Verantwortung für den Web-Bereich eines teamübergreifenden Designsystems – als Vertretung der Web-Entwicklung in Zusammenarbeit mit Designern und Entwicklern zur Standardisierung gemeinsamer Komponenten über mehrere Produkte hinweg",
+    "job1.li3": "Eigenverantwortliche Umsetzung von Features von A bis Z — von der Definition der OKRs über die Verfeinerung von Epics bis zum Produktiv-Release",
+    "job1.li4": "Absicherung von Releases durch Unit- und E2E-Tests (Jest, Cypress)",
+
+    "job2.start": "Sept. 2021",
+    "job2.end": "Feb. 2022",
+    "job2.role": "Studentischer Tutor im Praktikum für eingebettete Systeme",
+    "job2.org": "Fachhochschule · Dortmund – Deutschland",
+    "job2.li1": "Konzeption und Durchführung eines praxisnahen Kurses zur Programmierung eines Roboters mit eingebetteten Systemen für über 30 Studierende",
+    "job2.li2": "Einführung der Studierenden in AWS Greengrass, IoT-Konzepte sowie die Programmierung mit Python und C++",
+    "job2.li3": "Bewertung des Lernfortschritts der Studierenden in strukturierten Prüfungssitzungen",
+
+    "job3.start": "Feb. 2019",
+    "job3.end": "Dez. 2019",
+    "job3.role": "Praktikant Softwareentwicklung",
+    "job3.org": "Siemens Gamesa · Benisanó – Spanien",
+    "job3.li1": "Entwicklung einer SPA zur Automatisierung des Testens elektrischer Steuerschränke von Windturbinen und Ablösung eines manuellen, fehleranfälligen Prozesses",
+    "job3.li2": "Bereitstellung der Anwendung in der Produktion in einer laufenden Fabrikumgebung",
+    "job3.li3": "Tägliche Unterstützung an der Testlinie für einen reibungslosen Ablauf",
+
+    "edu.title": "Bildungsweg",
+    "edu1.start": "Okt. 2020",
+    "edu1.end": "Jan. 2024",
+    "edu1.role": "Master in eingebetteten Systemen",
+    "edu2.start": "Sept. 2015",
+    "edu2.end": "Juni 2020",
+    "edu2.role": "Studium der Elektronik- und Automatisierungstechnik",
+
+    "lang.title": "Sprachen",
+    "lang.spanish": "Spanisch",
+    "lang.spanish.level": "Muttersprache",
+    "lang.english": "Englisch",
+    "lang.german": "Deutsch"
+  },
+
+  "es": {
+    "tagline": "Desarrollador Frontend",
+    "city": "Leipzig, Alemania",
+
+    "exp.title": "Experiencia",
+    "job1.start": "Julio 2023",
+    "job1.end": "Actualidad",
+    "job1.role": "Desarrollador Frontend",
+    "job1.org": "Safety io (MSA) · Berlín – Alemania",
+    "job1.li1": "Desarrollo y mantenimiento de una SPA en Angular para el seguimiento y control en tiempo real de dispositivos de seguridad IoT conectados",
+    "job1.li2": "Responsable de la vertiente web de un sistema de diseño multiequipo, en representación del equipo web y en colaboración con diseñadores y desarrolladores para estandarizar componentes compartidos entre varios productos",
+    "job1.li3": "Responsabilidad integral de funcionalidades — desde la definición de OKR y el refinamiento de épicas hasta el despliegue en producción",
+    "job1.li4": "Aseguramiento de los lanzamientos mediante pruebas unitarias y e2e (Jest, Cypress)",
+
+    "job2.start": "Sept. 2021",
+    "job2.end": "Feb. 2022",
+    "job2.role": "Tutor de estudiantes en el laboratorio de sistemas embebidos",
+    "job2.org": "Fachhochschule · Dortmund – Alemania",
+    "job2.li1": "Diseño e impartición de un curso práctico sobre la programación de un robot de sistemas embebidos para más de 30 estudiantes",
+    "job2.li2": "Introducción de los estudiantes a AWS Greengrass, conceptos de IoT y programación en Python y C++",
+    "job2.li3": "Evaluación del progreso de los estudiantes mediante sesiones estructuradas",
+
+    "job3.start": "Feb. 2019",
+    "job3.end": "Dic. 2019",
+    "job3.role": "Desarrollador de software en prácticas",
+    "job3.org": "Siemens Gamesa · Benisanó – España",
+    "job3.li1": "Creación de una SPA para automatizar las pruebas de armarios de control eléctrico de aerogeneradores, sustituyendo un proceso manual y propenso a errores",
+    "job3.li2": "Despliegue de la aplicación en producción en un entorno de fábrica real",
+    "job3.li3": "Soporte diario en la línea de pruebas para mantener el proceso funcionando sin problemas",
+
+    "edu.title": "Formación",
+    "edu1.start": "Oct. 2020",
+    "edu1.end": "Ene. 2024",
+    "edu1.role": "Máster en Sistemas Embebidos",
+    "edu2.start": "Sept. 2015",
+    "edu2.end": "Jun. 2020",
+    "edu2.role": "Grado en Ingeniería Electrónica y Automática",
+
+    "lang.title": "Idiomas",
+    "lang.spanish": "Español",
+    "lang.spanish.level": "Nativo",
+    "lang.english": "Inglés",
+    "lang.german": "Alemán"
+  }
+}
