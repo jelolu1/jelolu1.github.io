@@ -85,15 +85,16 @@
       gap: .35rem 1.1rem;
       font-size: .95rem;
 
-        a {
-        color: var(--link);
-        text-decoration: none;
-        border-bottom: 1px solid var(--rule);
-        padding-bottom: 1px;
-        transition: border-color .2s ease;
+        .header__link {
+          color: var(--link);
+          text-decoration: none;
+          border-bottom: 1px solid var(--rule);
+          padding-bottom: 1px;
+          transition: border-color .2s ease;
+
+          &:hover { border-color: var(--fg); }
         }
         
-        a:hover { border-color: var(--fg); }
     }
 
     .header__contact .header__link--icon {
@@ -246,6 +247,13 @@
       font-size: .98rem;
       margin: 0 0 .55rem;
     }
+    .entry__org .entry__link {
+      color: inherit;
+      text-decoration: none;
+      border-bottom: 1px solid var(--rule);
+      transition: border-color .2s ease;
+    }
+    .entry__org .entry__link:hover { border-color: var(--fg); }
     .entry ul {
       margin: .35rem 0 0;
       padding-left: 1.1rem;
@@ -292,6 +300,10 @@
     [data-tech="sql"]            { --c: #4479A1; }
     [data-tech="postgresql"]     { --c: #4169E1; }
     [data-tech="linux"]          { --c: #D19A00; }
+    [data-tech="nextjs"]         { --c: #737373; }
+    [data-tech="stripe"]         { --c: #635BFF; }
+    [data-tech="vitest"]         { --c: #6E9F18; }
+    [data-tech="sentry"]         { --c: #6A5FC1; }
 
     @media (width < 540px) {
 			.header__row {flex-direction: column;}
